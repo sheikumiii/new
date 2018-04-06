@@ -9,7 +9,6 @@ layout: default
 2.  I like Soccer
 3.  I also like cooking
 
-<h1><a href="www.google.com"> Click here if you want to go to Google</a></h1>
 
 ### Small image
 
