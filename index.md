@@ -58,7 +58,7 @@ layout: default
 
 ### Large image
 
-![](G:\assignment 4 net\new\assets\img\cat.png)
+![](https://www.livesciencse.com/61517-cat-paw-dominance-study.html)
 
 
 ### Definition lists can be used with HTML syntax.
