@@ -2,7 +2,7 @@
 layout: default
 ---
 
-###Hi my name is Sheik Oodally, 
+<h1>Hi my name is Sheik Oodally</h1> 
 
 
 1.  I am from mauritius
