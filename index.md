@@ -9,6 +9,8 @@ layout: default
 2.  I like Soccer
 3.  I also like cooking
 
+<h1><a href="www.google.com"> Click here if you want to go to Google</a></h1>
+
 ###### [](#header-6)Header 6
 
 | head1        | head two          | three |
@@ -58,7 +60,7 @@ layout: default
 
 ### Large image
 
-![](https://www.livesciencse.com/61517-cat-paw-dominance-study.html)
+<img src="https://www.livesciencse.com/61517-cat-paw-dominance-study.html" alt="cat" height="500" width="500">
 
 
 ### Definition lists can be used with HTML syntax.
