@@ -4,13 +4,10 @@ layout: default
 
 >Hi my name is Sheik Oodally, 
 
-### [](#header-3)Header 3
 
-
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  I am from mauritius
+2.  I like Soccer
+3.  I also like cooking
 
 ###### [](#header-6)Header 6
 
