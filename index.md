@@ -58,7 +58,7 @@ layout: default
 
 ### Large image
 
-![](https://guides.github.com/activities/hello-world/branching.png)
+![](G:\assignment 4 net\new\assets\img\cat.png)
 
 
 ### Definition lists can be used with HTML syntax.
